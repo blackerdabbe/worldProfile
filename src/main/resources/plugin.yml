@@ -1,0 +1,12 @@
+main: com.serverworld.worldProfile.worldProfile
+name: ${project.name}
+version: ${project.version}
+authors:
+  - paul0665
+  - mc-serverworld
+website: mc-serverworld.com
+softdepend: [PlaceholderAPI]
+
+commands:
+  worldProfile:
+    aliases: [wdfile]

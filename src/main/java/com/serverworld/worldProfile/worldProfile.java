@@ -3,6 +3,7 @@ package com.serverworld.worldProfile;
 import com.serverworld.worldProfile.Listeners.Playerjoin;
 import com.serverworld.worldProfile.commands.worldProfileCommands;
 import net.md_5.bungee.api.ChatColor;
+import me.clip.placeholderapi.PlaceholderAPI;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.sql.Connection;
